@@ -1,0 +1,16 @@
+<templateSet group="AndroidXML">
+  <template name="lineview" value="&lt;View&#10;    android:background=&quot;@color/$color$&quot;&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;0.1dp&quot;/&gt;&#10;" description="横向分割线" toReformat="false" toShortenFQNames="true">
+    <variable name="color" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="lineview2" value="&lt;View&#10;    android:background=&quot;@color/$color$&quot;&#10;    android:layout_height=&quot;match_parent&quot;&#10;    android:layout_width=&quot;0.1dp&quot;/&gt;&#10;" description="竖向分割线" toReformat="false" toShortenFQNames="true">
+    <variable name="color" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

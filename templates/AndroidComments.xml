@@ -1,0 +1,11 @@
+<templateSet group="AndroidComments">
+  <template name="m_datas_size" value="mDatas == null?0:mDatas.size()" description="adapter的getCount" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sbbb" value="///////////////////////////////////////////////////////////////////////////&#10;// $s$&#10;///////////////////////////////////////////////////////////////////////////" description="醒目的注释" toReformat="true" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
