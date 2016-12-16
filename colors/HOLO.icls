@@ -712,7 +712,7 @@
     </option>
     <option name="JAVA_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ffa500" />
+        <option name="FOREGROUND" value="ff4444" />
       </value>
     </option>
     <option name="JAVA_COMMA">
@@ -748,7 +748,7 @@
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ffa500" />
+        <option name="FOREGROUND" value="ff4444" />
       </value>
     </option>
     <option name="JAVA_NUMBER">
