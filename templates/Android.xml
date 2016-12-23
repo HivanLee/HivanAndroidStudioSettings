@@ -44,4 +44,16 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="gttt" value="$view$.getText().toString().trim();" description="获取view的字符串" toReformat="false" toShortenFQNames="true">
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
