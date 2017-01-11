@@ -1,9 +1,9 @@
 <scheme name="Tomorrow Night Blue" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="微软雅黑Monaco" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ffffff" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
@@ -1161,9 +1161,6 @@
         <option name="FOREGROUND" value="ff9da4" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="LABEL">
       <value>
