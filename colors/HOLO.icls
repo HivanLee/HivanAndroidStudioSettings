@@ -1,10 +1,12 @@
 <scheme name="HOLO" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="微软雅黑Monaco" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
-  <option name="EDITOR_FONT_NAME" value="微软雅黑Monaco" />
+  <option name="EDITOR_FONT_NAME" value="Lucida Sans Typewriter" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -743,6 +745,7 @@
       <value>
         <option name="FOREGROUND" value="16a085" />
         <option name="BACKGROUND" value="2b303b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
