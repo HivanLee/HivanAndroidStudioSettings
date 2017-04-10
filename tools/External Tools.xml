@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="VS" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Microsoft Emulator Manager\1.0\emulatormgr.exe" />
+      <option name="PARAMETERS" value="/sku:Android launch /id:76B1B3EB-69DC-4423-B17E-10855ACD9B91" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

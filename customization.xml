@@ -9,6 +9,28 @@
     </group>
     <group value="CodeGenerationPlugin.BFragmentAction00" is_action="true" action_type="-1" position="7">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BFragmentAction00" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BFragmentAction00" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BFragmentAction00" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -31,6 +53,28 @@
     </group>
     <group value="CodeGenerationPlugin.BAdapterAction00" is_action="true" action_type="-1" position="6">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BAdapterAction00" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BAdapterAction00" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BAdapterAction00" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -53,6 +97,28 @@
     </group>
     <group value="CodeGenerationPlugin.BActivityAction00" is_action="true" action_type="-1" position="5">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BActivityAction00" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BActivityAction00" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BActivityAction00" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -75,6 +141,28 @@
     </group>
     <group value="CodeGenerationPlugin.MenuAction00" is_action="true" action_type="-1" position="3">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.MenuAction00" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.MenuAction00" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.MenuAction00" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -97,6 +185,28 @@
     </group>
     <group value="CodeGenerationPlugin.FragmentAction00" is_action="true" action_type="-1" position="2">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.FragmentAction00" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.FragmentAction00" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.FragmentAction00" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -119,6 +229,20 @@
     </group>
     <group value="CodeGenerationPlugin.AdapterAction00" is_action="true" action_type="-1" position="1">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.AdapterAction00" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.AdapterAction00" is_action="true" action_type="-1" position="1">
+      <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -132,6 +256,24 @@
       <path value="Generate Android Code" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CodeGenerationPlugin.AdapterAction00" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CodeGenerationPlugin.ActivityAction00" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -141,6 +283,56 @@
     </group>
     <group value="CodeGenerationPlugin.ActivityAction00" is_action="true" action_type="-1" position="0">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Editor Tab Popup Menu" />
+      <path value="Editor Tab Popup Menu Actions (1)" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.ActivityAction00" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.ActivityAction00" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.ActivityAction00" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -154,6 +346,42 @@
       <path value="Generate Android Code" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Commander View Popup Menu" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToISuite" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CodeGenerationPlugin.ActivityAction" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -163,6 +391,56 @@
     </group>
     <group value="CodeGenerationPlugin.ActivityAction" is_action="true" action_type="1" position="0">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Editor Tab Popup Menu" />
+      <path value="Editor Tab Popup Menu Actions (1)" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.ActivityAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.ActivityAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.ActivityAction" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -176,6 +454,32 @@
       <path value="Generate Android Code" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Commander View Popup Menu" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="androidAddToISuite" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar" />
+      <path value="Project View Popup Menu Run Group" />
+      <path value="Run Configurations" />
+      <path value="RunContextGroup" />
+      <path value="group.Add to pattern suite" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CodeGenerationPlugin.AdapterAction" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -185,6 +489,28 @@
     </group>
     <group value="CodeGenerationPlugin.AdapterAction" is_action="true" action_type="1" position="1">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.AdapterAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.AdapterAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.AdapterAction" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -207,6 +533,28 @@
     </group>
     <group value="CodeGenerationPlugin.FragmentAction" is_action="true" action_type="1" position="2">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.FragmentAction" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.FragmentAction" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.FragmentAction" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -229,6 +577,28 @@
     </group>
     <group value="CodeGenerationPlugin.MenuAction" is_action="true" action_type="1" position="3">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.MenuAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.MenuAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.MenuAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -251,6 +621,28 @@
     </group>
     <group value="CodeGenerationPlugin.BActivityAction" is_action="true" action_type="1" position="5">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BActivityAction" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BActivityAction" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BActivityAction" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -273,6 +665,28 @@
     </group>
     <group value="CodeGenerationPlugin.BAdapterAction" is_action="true" action_type="1" position="6">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BAdapterAction" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BAdapterAction" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BAdapterAction" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
@@ -295,6 +709,28 @@
     </group>
     <group value="CodeGenerationPlugin.BFragmentAction" is_action="true" action_type="1" position="7">
       <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BFragmentAction" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BFragmentAction" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="group.Generate Android Code" />
+      <path value="Generate Android Code" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeGenerationPlugin.BFragmentAction" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <path value="Project View Popup Menu" />
       <path value="group.Generate Android Code" />
       <path value="Generate Android Code" />
