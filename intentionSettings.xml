@@ -1,5 +1,8 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Reset to default namespace" />
+    <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
+    <ignoreAction name="Java/I18N/Convert to Basic Latin" />
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
   </component>
 </application>
