@@ -66,6 +66,11 @@
         <option name="FOREGROUND" value="8000" />
       </value>
     </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c53434" />
+      </value>
+    </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff00ff" />
